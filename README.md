@@ -11,4 +11,4 @@ Here is linw1995.
 
 ![Metrics](github-metrics.svg)
 
-![3D Profile](profile-3d-contrib/profile-green.svg)
+![3D Profile](profile-3d-contrib/profile-3d-contrib.svg)

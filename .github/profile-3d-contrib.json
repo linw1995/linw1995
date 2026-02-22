@@ -6,6 +6,6 @@
   "strongColor": "#111133",
   "weakColor": "gray",
   "radarColor": "#47a042",
-  "growingAnimation": true,
+  "growingAnimation": false,
   "contribColors": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"]
 }
