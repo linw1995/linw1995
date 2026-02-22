@@ -20,9 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Plugins
           base: activity, community, repositories
-          repositories_forks: yes
-          repositories_affiliations: ""
-          commits_authoring: linw1995@icloud.com
           plugin_notable: yes
+          plugin_notable_from: all
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
